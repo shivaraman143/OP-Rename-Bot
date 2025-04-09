@@ -40,7 +40,7 @@ Press Below Button to Deploy!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
-#### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
+#### Inspired from [@HK_Rename_Bot](https://https://github.com/Aadhi000/OP-Rename-Bot
 
 ### Follow on:
 <p align="left">
